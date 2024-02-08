@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "react-toastify": "^10.0.4"
+  }
+}
